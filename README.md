@@ -45,7 +45,7 @@ Specifically, this demo implements a delivery workflow that:
 1. Refresh the page as needed until the package is listed under *Packages*.
 1. Select the package and review the details on the package page.
 
-# Fixing Warnings in the Annotations Section (Thhi depends on the version of the actions used in the workflow)
+# Fixing Warnings in the Annotations Section (This depends on the version of the actions used in the workflow)
 At the time this course was published, the *Publish Docker Container* workflow contained actions based on `Node 12`.
 
 [Node 12 has been out of support since April 2022 and has been deprecated by Github Actions](https://github.blog/changelog/2022-09-22-github-actions-all-actions-will-begin-running-on-node16-instead-of-node12/).
